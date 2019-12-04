@@ -4,7 +4,11 @@
 
 [![Icon](https://raw.githubusercontent.com/ChaseRoth/Solitaire-Team-Manager/master/Solitaire/Resources/mipmap-mdpi/solitaire_icon.png)](https://dotnet.microsoft.com/apps/xamarin/)
 
-<img style="align:middle;" src="https://raw.githubusercontent.com/ChaseRoth/Solitaire-Team-Manager/master/Solitaire/Resources/mipmap-mdpi/solitaire_icon.png" alt="Solitaire Team Manager's Icon Image">
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChaseRoth/Solitaire-Team-Manager/master/Solitaire/Resources/mipmap-mdpi/solitaire_icon.png" alt="Solitaire Team Manager's Icon Image">
+</p>
 
 # Solitaire Team Manager
 
